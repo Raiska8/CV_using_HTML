@@ -58,15 +58,14 @@
       </section>
       <section class="code_example" id="code">
         <h2>Code Example</h2>
-        <pre><code class="javascript">const process = require('process');
-          const fs = require('fs');
-          const path = require('path');
-          
-          const filePath = path.join(__dirname, 'text.txt');
-          const readStream = fs.createReadStream(filePath, 'utf-8');
-
-          readStream.on('data', data => process.stdout.write(data));
-        </code></pre>
+            <div class="code_example_inner">
+<pre class="code"><code class="language-javascript">function isDivideBy(number, a, b) {
+    if ((number % a === 0) &amp;&amp;
+        (number % b === 0)) {
+      return true;
+    }
+    return false;
+  }</code></pre>
       </section>
       <section class="education" id="education">
         <h2>Education</h2>
