@@ -1,2 +1,2 @@
 # CV
-https://raiska8.github.io/CV/
+raiska8.github.io/my-cv/
