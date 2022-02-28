@@ -1,2 +1,2 @@
 # CV
-https://raiska8.github.io/My-CV/
+https://raiska8.github.io/CV_using_HTML/
